@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:517526223121:android:52bf1502ab99bce15334b0",
         "android_client_info": {
-          "package_name": "com.fani.firebase_database"
+          "package_name": "com.example.firestore_demo"
         }
       },
       "oauth_client": [
